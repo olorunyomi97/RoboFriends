@@ -53,5 +53,23 @@ export const robots = [
         username : 'OBJ',
         email : 'Odell@browns.com'
     },
+    {
+        id : '10',
+        name : 'Aaron Donald',
+        username : 'AD9',
+        email : 'Aaron@rams.com'
+    },
+    {
+        id : '11',
+        name : 'Stephon Diggs',
+        username : 'Diggs',
+        email : 'Diggs@bills.com'
+    },
+    {
+        id : '9',
+        name : 'Patrick Mahomes',
+        username : 'Mahome-Boy',
+        email : 'Pat@chiefs.com'
+    },
 
 ]
