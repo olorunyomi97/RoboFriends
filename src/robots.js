@@ -45,7 +45,6 @@ export const robots = [
         id : 8,
         name : 'Lamar Jackson',
         username : 'Big Truzz',
-        username : 'Truzz',
         email : 'lamar@truzz.com'
     },
     {
